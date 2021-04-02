@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Lauren and I excited to learn about coding on the Front-end. 
+
 <!--
 **Lauren-Smalls/Lauren-Smalls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
